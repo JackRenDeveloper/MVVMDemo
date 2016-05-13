@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  MVVMDemo
+//
+//  Created by JackRen on 16/4/5.
+//  Copyright © 2016年 JackRen. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Config.h"
+#import "DownloadData.h"
+
+
+#endif /* PrefixHeader_pch */
